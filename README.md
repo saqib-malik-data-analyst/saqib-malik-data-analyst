@@ -61,4 +61,5 @@ Skilled in Power BI, SQL, Microsoft Excel and data visualization, I specialize i
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
  <img src="https://img.shields.io/badge/Data%20Modeling-Intermediate-45B7D1?style=flat" alt="Data Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/DAX%20Measures-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="DAX Measures Skill Badge">
 </p>
