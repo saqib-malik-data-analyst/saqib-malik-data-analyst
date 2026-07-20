@@ -20,7 +20,7 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-Skilled in Power BI, SQL, Microsoft Excel and data visualization, I specialize in designing interactive dashboards, building optimized data models, and delivering clear, actionable analytics to nontechnical stakeholders. I love the "aha!" moment when data reveals something new and useful.
+Skilled in Power BI, SQL, Microsoft Excel and data visualization, I specialize in designing interactive dashboards, building optimized data models, and delivering clear, actionable analytics to non-technical stakeholders. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
